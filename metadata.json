@@ -1,0 +1,8 @@
+
+{
+  "name": "Instant Shots By Nikki",
+  "description": "Tangible memories for brunches, festivals, and parties. Instant physical photos captured with an Instax WIDE 400.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
